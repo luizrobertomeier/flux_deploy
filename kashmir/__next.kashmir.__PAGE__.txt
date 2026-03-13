@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 3:I[95276,["/flux_deploy/_next/static/chunks/221e0744b683f94b.js","/flux_deploy/_next/static/chunks/54acdc74ad0965ad.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"htpfqKB3bNyQbEUmU58tD","rsc":["$","$1","c",{"children":["$L2",[["$","script","script-0",{"src":"/flux_deploy/_next/static/chunks/8f1936b676dd53ee.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"tWsoWIOR41Zn4KziJTyC0","rsc":["$","$1","c",{"children":["$L2",[["$","script","script-0",{"src":"/flux_deploy/_next/static/chunks/053c835b41db7051.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
 2:E{"digest":"NEXT_HTTP_ERROR_FALLBACK;404"}
