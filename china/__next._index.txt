@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[25270,["/flux_deploy/_next/static/chunks/221e0744b683f94b.js","/flux_deploy/_next/static/chunks/54acdc74ad0965ad.js"],"default"]
-3:I[85455,["/flux_deploy/_next/static/chunks/221e0744b683f94b.js","/flux_deploy/_next/static/chunks/54acdc74ad0965ad.js"],"default"]
-4:I[36768,["/flux_deploy/_next/static/chunks/a9140430ec738dda.js"],"default"]
-:HL["/flux_deploy/_next/static/chunks/47c803a55263664d.css","style"]
-0:{"buildId":"tWsoWIOR41Zn4KziJTyC0","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/flux_deploy/_next/static/chunks/47c803a55263664d.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","$L4",null,{}],[]]}]}]}]]}],"loading":null,"isPartial":false}
+2:I[44888,["/flux_deploy/_next/static/chunks/0qzfdvdk371rp.js","/flux_deploy/_next/static/chunks/02bf9o60-dgl9.js"],"default"]
+3:I[35968,["/flux_deploy/_next/static/chunks/0qzfdvdk371rp.js","/flux_deploy/_next/static/chunks/02bf9o60-dgl9.js"],"default"]
+4:I[36768,["/flux_deploy/_next/static/chunks/0qzfdvdk371rp.js","/flux_deploy/_next/static/chunks/02bf9o60-dgl9.js","/flux_deploy/_next/static/chunks/0~4.07kiw~4af.js"],"default"]
+:HL["/flux_deploy/_next/static/chunks/0l-7k4hfd.f5a.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/flux_deploy/_next/static/chunks/0l-7k4hfd.f5a.css","precedence":"next"}],["$","script","script-0",{"src":"/flux_deploy/_next/static/chunks/0qzfdvdk371rp.js","async":true}],["$","script","script-1",{"src":"/flux_deploy/_next/static/chunks/02bf9o60-dgl9.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","$L4",null,{}],[]]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"doSCfgnrU2FdUmYl4Bn3P"}

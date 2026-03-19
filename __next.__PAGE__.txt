@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[33461,["/flux_deploy/_next/static/chunks/221e0744b683f94b.js","/flux_deploy/_next/static/chunks/54acdc74ad0965ad.js"],"ClientPageRoot"]
-3:I[31713,["/flux_deploy/_next/static/chunks/f686a71e1935c113.js","/flux_deploy/_next/static/chunks/b8bf021df1bd54ec.js","/flux_deploy/_next/static/chunks/9de6e2e633f72409.js"],"default"]
-6:I[95276,["/flux_deploy/_next/static/chunks/221e0744b683f94b.js","/flux_deploy/_next/static/chunks/54acdc74ad0965ad.js"],"OutletBoundary"]
+2:I[99164,["/flux_deploy/_next/static/chunks/0qzfdvdk371rp.js","/flux_deploy/_next/static/chunks/02bf9o60-dgl9.js"],"ClientPageRoot"]
+3:I[31713,["/flux_deploy/_next/static/chunks/0qzfdvdk371rp.js","/flux_deploy/_next/static/chunks/02bf9o60-dgl9.js","/flux_deploy/_next/static/chunks/09n9s_3noy2pw.js","/flux_deploy/_next/static/chunks/0~ua0k9v~c7c9.js","/flux_deploy/_next/static/chunks/154_96xhb4kvz.js"],"default"]
+6:I[59136,["/flux_deploy/_next/static/chunks/0qzfdvdk371rp.js","/flux_deploy/_next/static/chunks/02bf9o60-dgl9.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"tWsoWIOR41Zn4KziJTyC0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/flux_deploy/_next/static/chunks/f686a71e1935c113.js","async":true}],["$","script","script-1",{"src":"/flux_deploy/_next/static/chunks/b8bf021df1bd54ec.js","async":true}],["$","script","script-2",{"src":"/flux_deploy/_next/static/chunks/9de6e2e633f72409.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/flux_deploy/_next/static/chunks/09n9s_3noy2pw.js","async":true}],["$","script","script-1",{"src":"/flux_deploy/_next/static/chunks/0~ua0k9v~c7c9.js","async":true}],["$","script","script-2",{"src":"/flux_deploy/_next/static/chunks/154_96xhb4kvz.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"doSCfgnrU2FdUmYl4Bn3P"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
